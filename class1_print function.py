@@ -1,0 +1,5 @@
+print("hello world")
+print('hello world')
+print("hello  'hi' world")
+print('hello "hi" world')
+print('hi my name is" vikash')
