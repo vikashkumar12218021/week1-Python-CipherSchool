@@ -1,0 +1,6 @@
+print("hi my \"name\" is Vikash")
+print('hi Rahul my \'name\'is Vikash Kumar')
+print('HI MY NAME IS \n vikash kumar chaudhary \n and i am from bihar')
+print("hi my name is \trahul kumar")
+print(' hi my name is rahul kumar chaudhary\\\\')
+print("hi my name is\b rahul kumar ")
